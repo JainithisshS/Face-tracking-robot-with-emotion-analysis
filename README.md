@@ -62,7 +62,7 @@ The hardware demo shows the robotic arm tracking a user’s face and responding 
 ### 4.2 Simulation Demo
 The simulation demo replicates the face tracking and robotic arm control logic in a virtual environment using CoppeliaSim. It enables safe and effective testing before hardware deployment.
 
-[![Simulation Demo](assets/simulation_demo_thumb.jpg)](https://github.com/Jainithisshs/Robotics/blob/main/DEMO_SIMULATION.mp4)
+[![Simulation Demo](assets/simulation_demo_thumb.jpg.png)](https://github.com/Jainithisshs/Robotics/blob/main/DEMO_SIMULATION.mp4)
 
 [▶ Click here to watch Simulation Demo](https://github.com/Jainithisshs/Robotics/blob/main/DEMO_SIMULATION.mp4)
 
