@@ -53,12 +53,24 @@ The robotic arm is controlled via PWM signals (hardware) or through the Coppelia
 ### 4.1 Hardware Demo
 The hardware demo shows the robotic arm tracking a user’s face and responding to their emotional state. The arm’s movement is smooth and responsive, demonstrating the integration of vision and actuation.
 
-**Watch:** [DEMO_HARDWARE.mp4](./DEMO_HARDWARE.mp4)
+
+<details>
+<summary><strong>Watch Hardware Demo (inline)</strong></summary>
+
+<video src="DEMO_HARDWARE.mp4" controls width="480"></video>
+
+</details>
 
 ### 4.2 Simulation Demo
 The simulation demo, run in CoppeliaSim, replicates the face tracking and arm control logic in a virtual environment. This allows for safe testing and visualization of the system’s behavior.
 
-**Watch:** [DEMO_SIMULATION.mp4](./DEMO_SIMULATION.mp4)
+
+<details>
+<summary><strong>Watch Simulation Demo (inline)</strong></summary>
+
+<video src="DEMO_SIMULATION.mp4" controls width="480"></video>
+
+</details>
 
 ## 5. How to Run the Project
 
