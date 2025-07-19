@@ -2,7 +2,7 @@
 # Face Tracking Robotic Arm with Emotion Analysis
 
 ## Project Website
-[https://jainithisshs.github.io/Robotics/](https://jainithisshs.github.io/Robotics/)
+[https://jainithisshs.github.io/Face-tracking-robot-with-emotion-analysis/](https://jainithisshs.github.io/Face-tracking-robot-with-emotion-analysis/)
 
 ## Abstract
 This project presents the design and implementation of a robotic arm system capable of real-time face tracking and emotion analysis. By integrating computer vision, machine learning, and robotics, the system can detect human faces, classify emotions, and control a robotic arm to interact responsively. Both hardware and simulation environments are provided, with demonstration videos included.
